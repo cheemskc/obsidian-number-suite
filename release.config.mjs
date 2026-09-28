@@ -10,7 +10,7 @@ export default Object.freeze({
     styles: "required",
   }),
   publication: Object.freeze({
-    repository: "ZHYX91/obsidian-number-suite",
+    repository: "cheemskc/obsidian-number-suite",
   }),
   build: Object.freeze({
     node: "24.19.0",

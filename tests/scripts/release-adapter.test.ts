@@ -26,7 +26,7 @@ describe("thin release adapter", () => {
         isDesktopOnly: false,
       },
       assets: { styles: "required" },
-      publication: { repository: "ZHYX91/obsidian-number-suite" },
+      publication: { repository: "cheemskc/obsidian-number-suite" },
       build: {
         node: "24.19.0",
         packageManager: "npm@11.17.0",
